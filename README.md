@@ -1,2 +1,1 @@
-# algo_trading strategies using Robinhood API
-Contains a back test and an execution file
+# algo_trading strategies, backtest, and automated trading system with Robinhood API
